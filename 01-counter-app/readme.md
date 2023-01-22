@@ -4,4 +4,4 @@ A basic counter app for develop and get used to the react native syntax. `Feel f
 
 ![App pic](./img/01.png)
 
-##### _*Made with love by @Nimeavles*_
+##### _*Made with ❤️ by @Nimeavles*_
